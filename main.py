@@ -34,9 +34,9 @@ test_battery("mult", 10)
 test_battery("add", 100)
 test_battery("sub", 100)
 test_battery("mult", 100)
-test_battery("add", 400)
-test_battery("sub", 400)
-test_battery("mult", 400)
+test_battery("add", 1000)
+test_battery("sub", 1000)
+test_battery("mult", 1000)
 
 
 # test battery on a generic operation that takes 1 second per iteration
